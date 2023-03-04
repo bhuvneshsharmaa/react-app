@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import BlogCard from "./BlogCard";
-import ProjectCard from "./ProjectCard";
+import ProjectCard from "./BlogCard";
+import BlogCard from "./ProjectCard";
 const MainCard = () => {
   useEffect(() => {
     window.addEventListener("scroll", navHighlighter);
@@ -80,16 +80,16 @@ const MainCard = () => {
   ];
   return (
     <div className="maincard">
-      <h2>Projects</h2>
+      <h2>Blogs</h2>
       <section className="projects" id="projects">
         {blogsData.map((item) => (
-          <ProjectCard {...item} />
+          <BlogCard {...item} />
         ))}
       </section>
-      <h2>Blogs</h2>
+      <h2>Projects</h2>
       <section className="blogs" id="blogs">
         {projectsData.map((item) => (
-          <BlogCard {...item} key={item.topic} />
+          <ProjectCard {...item} key={item.topic} />
         ))}
       </section>
       <footer>Living, learning, & improving one day at a time.</footer>

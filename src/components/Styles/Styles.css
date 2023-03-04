@@ -151,6 +151,7 @@
   justify-content: center;
   align-items: center;
   transition: all 0.7s ease-in-out;
+  text-decoration: none;
   cursor: pointer;
 }
 .about .action-button a div {
