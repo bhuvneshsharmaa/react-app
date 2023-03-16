@@ -46,7 +46,7 @@ const AboutCard = () => {
       </div>
       <div className="footer">
         <div className="profile">
-          <img src="profile.jpg" alt="profile" />
+          <img src="profile.jpg" alt="profile" loading="lazy" />
         </div>
         <ul>
           <li>
