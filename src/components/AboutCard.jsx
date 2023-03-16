@@ -8,16 +8,18 @@ const AboutCard = () => {
       <h2>Software Engineer & Mentor</h2>
       <div className="meta">
         <p>
-          Highly passionate and skilled developer having the experience of
-          around 3 years building end to end web applications from scratch using
-          modern tools and technologies.
+          A creative problem solver and experienced developer having the
+          experience of around 3 years of building end-to-end web applications
+          from scratch using modern tools and technologies. I like to code
+          things from scratch and enjoy bringing ideas to life in the browser.
         </p>
         <p>
-          On my spare time, Either I share what I learn on my
+          In my spare time, Either I used to write on my
           <a href="https://shbhuvnesh.hashnode.dev/" className="link">
             Blog
           </a>
-          around the world in tech community or play Chess.
+          to share my knowledge in the tech community or explore other
+          meaningful aspects of life.
         </p>
       </div>
       <div className="nav-links">

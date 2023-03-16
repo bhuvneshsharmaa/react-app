@@ -41,6 +41,11 @@ const MainCard = () => {
       link: "https://shbhuvnesh.hashnode.dev/mastering-javascript-a-guide-to-string-manipulation-techniques",
     },
     {
+      description: "Techniques for Optimising application performance",
+      title: "Throttling and debouncing: When and How to use?",
+      link: "https://shbhuvnesh.hashnode.dev/throttling-and-debouncing-when-and-how-to-use",
+    },
+    {
       description: "How to get started with unit testing?",
       title: "Unit Testing: React",
       link: "https://manorinfinity.com/2022/10/04/unit-testing-in-react-introduction/",
@@ -51,26 +56,26 @@ const MainCard = () => {
       link: "https://romantic-leavitt-6d985c.netlify.app/",
       topic: "Covid Tracker",
       description:
-        "Created this project while I was learning React which shows covid stats world wide",
+        "Created this project while I was learning React which shows covid stats worldwide.",
       github: "https://github.com/bhuvneshsharmaa/covid-19-tracker",
     },
     {
       link: "https://lucid-gates-465934.netlify.app/",
       topic: "Image Compression",
       description:
-        "Compresses the image significantly while optimizing the image quality and size. Better results compared to whatsapp compression alogrithm",
+        "Compresses the image significantly while optimizing the image quality and size. Better results compared to the WhatsApp compression algorithm.",
       github: "https://github.com/bhuvneshsharmaa/Image-compression",
     },
     {
       topic: "Mobile Design System",
       description:
-        "Created reusable and customizable widgets in flutter for mobile apps to build faster and consistent.",
+        "Created reusable and customizable widgets in flutter for mobile apps to build faster and consistently.",
       github: "https://github.com/innovaccer/mobile-design-system",
     },
     {
       topic: "Acute Infection Management System",
       description:
-        "Created critical patients real time monitoring system which has patient listing and patient 360 view for visualizing the EHR data.",
+        "Created critical patient's real-time monitoring system which has patient listing and patient 360 views for visualizing the EHR data.",
     },
     {
       topic: "Conversation SDK",
